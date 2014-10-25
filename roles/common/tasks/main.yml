@@ -10,4 +10,5 @@
   - build-essential
   - python-mysqldb
   - curl
+  - git-core
   - ssl-cert
